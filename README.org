@@ -1,5 +1,5 @@
 #+TITLE: Homomorphic Sensing
-This repository accompanies the paper [1].
+This repository accompanies the paper [[[https://sites.google.com/site/manolisctsakiris/][1]]].
 
 If you have found this code helpful in your research, kindly cite this
 paper:
