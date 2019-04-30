@@ -2,7 +2,7 @@
 
                     EXPERIMENTS ON UNLABELED SENSING
 
-                           Anonymous Authors
+                       M. C. Tsakiris and L. Peng
                    __________________________________
 
 

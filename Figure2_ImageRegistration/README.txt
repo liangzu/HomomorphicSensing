@@ -2,7 +2,7 @@
 
                    EXPERIMENTS ON IMAGE REGISTRATION
 
-                           Anonymous Authors
+                       M. C. Tsakiris and L. Peng
                   ___________________________________
 
 

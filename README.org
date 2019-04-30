@@ -1,8 +1,7 @@
 #+TITLE: Homomorphic Sensing
 This repository accompanies the paper [[[https://sites.google.com/site/manolisctsakiris/][1]]].
 
-If you have found this code helpful in your research, kindly cite this
-paper:
+If you have found this code helpful in your research, kindly cite:
 
 #+BEGIN_EXAMPLE
 [1] M. C. Tsakiris and L. Peng, Homomorphic sensing, arXiv:1901.07852 [cs.IT], 2019
